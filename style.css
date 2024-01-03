@@ -266,6 +266,7 @@ header {
 /* footer  */
 footer {
   padding: 80px var(--padding-inline-section) 80px;
+  background-color: #ebf2fa;
 }
 .footer-container {
   justify-content: space-between;
