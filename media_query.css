@@ -105,8 +105,13 @@
   p {
     font-size: 1rem;
   }
+  .features-area {
+    justify-content: center;
+    align-items: center;
+  }
   .features-card {
     max-width: 100%;
+    text-align: center;
   }
   .examples-card {
     width: 100%;
