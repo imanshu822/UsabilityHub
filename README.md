@@ -27,10 +27,6 @@ To run the project locally, follow these steps:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
-## Special Thanks
-
-A big shoutout to everyone who contributed and supported the development of Usability Hub.
-
 ## Connect with Me
 
 Let's connect on LinkedIn and discuss web development, UI/UX, and innovation!
